@@ -1,4 +1,4 @@
-- txt = 'Hello world'
+txt = 'Hello world'
 
 Hitung jumlah karakter
 
@@ -15,8 +15,8 @@ ganti karakter H dengan karakter J
 
 # CODE 
 
-![gambar1](gambar/gambarip1.png
+![gambar1](gambar/gambarip1.png)
 
 # HASIL
 
-![gambar1](gambar/gambarip2.png
+![gambar1](gambar/gambarip2.png)
