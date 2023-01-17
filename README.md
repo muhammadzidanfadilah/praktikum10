@@ -20,3 +20,13 @@ ganti karakter H dengan karakter J
 # HASIL
 
 ![gambar1](gambar/gambarip2.png)
+
+Latihan 2
+
+# CODE
+
+![gambar1](gambar/gambarip4.png)
+
+# HASIL
+
+![gambar1](gambar/gambarip3.png)
